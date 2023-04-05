@@ -2443,6 +2443,9 @@
         "Derekmini",
         "auto-bot-ty"
     ],
+    "/ieee/journal/:journal/earlyaccess/:sortType?": [
+        "5upernova-heng"
+    ],
     "/ieee-security/security-privacy": [
         "ZeddYu"
     ],
@@ -4230,6 +4233,9 @@
     "/sensortower/blog/:language?": [
         "nczitzk"
     ],
+    "/setn/:category?": [
+        "nczitzk"
+    ],
     "/shiep/:type/:id?": [
         "gumibea",
         "TeamSUEP"
@@ -4338,6 +4344,12 @@
     "/soundofhope/:channel/:id": [
         "Fatpandac"
     ],
+    "/southcn/nfapp/column/:column?": [
+        "TimWu007"
+    ],
+    "/southcn/nfapp/reporter/:reporter": [
+        "TimWu007"
+    ],
     "/spotify/artist/:id": [
         "outloudvi"
     ],
@@ -4432,6 +4444,9 @@
     ],
     "/studygolang/jobs": [
         "CcccFz"
+    ],
+    "/studygolang/weekly": [
+        "Weilet"
     ],
     "/subhd/sub/:category?": [
         "nczitzk"
@@ -6544,7 +6559,6 @@
     "/amazfitwatchfaces/search/:model/:keyword?/:sortBy?": [],
     "/missevan/drama/latest": [],
     "/missevan/drama/:id": [],
-    "/go-weekly": [],
     "/popiask/:sharecode/:pagesize?": [],
     "/tapechat/questionbox/:sharecode/:pagesize?": [],
     "/amd/graphicsdrivers/:id/:rid?": [],
